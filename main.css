@@ -40,7 +40,7 @@ body {
     height: 50px;
     width: 50px;
     margin-left: 5px;
-    cursor: pointer;
+    cursor: pointer ;
   }
   button:hover {
     background: #7c7c7c2b ;
